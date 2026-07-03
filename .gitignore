@@ -1,0 +1,26 @@
+﻿# Upload only the requested project content.
+/*
+!/.gitignore
+!/README.md
+!/notebook/
+!/read_me_chart/
+!/Optimizor/
+
+# notebook/: only Jupyter notebooks and Python source.
+/notebook/**
+!/notebook/**/
+!/notebook/**/*.ipynb
+!/notebook/**/*.py
+
+# Optimizor/: only Jupyter notebooks and Python source.
+/Optimizor/**
+!/Optimizor/**/
+!/Optimizor/**/*.ipynb
+!/Optimizor/**/*.py
+
+# read_me_chart/: upload the complete directory.
+!/read_me_chart/**
+
+# Exclude generated caches even if they contain Python files.
+**/.ipynb_checkpoints/
+**/__pycache__/
