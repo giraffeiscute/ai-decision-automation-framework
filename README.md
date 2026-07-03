@@ -3,7 +3,7 @@ English version underneath
 本專案為論文《Public Access Defibrillator Deployment for Cardiac Arrests: A Learn-Then-Optimize Approach with SHAP-based Interpretable Analytics》的實作代碼。我們提出一個創新的「先學習、後優化（Learn-Then-Optimize）」框架，結合地理資料機器學習模型、SHAP 可解釋性分析，以及整數規劃，解決院外心臟驟停（OHCA）風險預測與 AED（自動體外心臟去顫器）最適部署問題。
 
 
-![image](https://github.com/giraffeiscute/python-ML-project-Framework-AED-predict-then-optimize/blob/main/Flow%20chart.png)
+![image](https://github.com/giraffeiscute/ai-decision-automation-framework/blob/main/read_me_chart/Flow_chart.png)
 
 ## 專案特色
 ### 多模型機器學習與跨區域泛化能力強化
@@ -46,7 +46,7 @@ Yang, C.-Y., Leong, K.-H., Cao, K., Yang, M., & Chan, W. K. (2025). Public Acces
 This repository contains the implementation of our paper "Public Access Defibrillator Deployment for Cardiac Arrests: A Learn-Then-Optimize Approach with SHAP-based Interpretable Analytics." We propose an innovative Learn-Then-Optimize framework that integrates geographic-data-based machine learning models, SHAP-based interpretability, and integer programming to address the prediction of out-of-hospital cardiac arrest (OHCA) risks and the optimal deployment of Automated External Defibrillators (AEDs).
 
 
-![image](https://github.com/giraffeiscute/python-ML-project-Framework-AED-predict-then-optimize/blob/main/Flow%20chart.png)
+![image](https://github.com/giraffeiscute/ai-decision-automation-framework/blob/main/read_me_chart/Flow_chart.png)
 ## Project Highlights
 ### Multi-model Machine Learning and Cross-Region Generalization
 We adopt multiple machine learning approaches—XGBoost, Multilayer Perceptron (MLP), and Support Vector Machine (SVM)—to model and predict OHCA risks, enhancing both the stability and accuracy of predictions.
