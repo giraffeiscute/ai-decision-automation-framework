@@ -9,6 +9,8 @@
 # notebook/: only Jupyter notebooks and Python source.
 /notebook/**
 !/notebook/**/
+!/notebook/README.md
+!/notebook/MANIFEST.md
 !/notebook/**/*.ipynb
 !/notebook/**/*.py
 
