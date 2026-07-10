@@ -141,7 +141,7 @@ ai-decision-automation-framework/
 │   ├── SVM.ipynb                   # SVR baseline
 │   ├── poisson regression.ipynb    # statistical baseline
 │   ├── XGB SHAP.ipynb              # XGBoost SHAP explanation
-│   ├── NN shap value*.ipynb        # MLP SHAP explanation
+│   ├── NN SHAP.ipynb               # MLP SHAP explanation
 │   ├── SVM SHAP.ipynb              # SVR SHAP explanation
 │   ├── XGB_LIME SP.ipynb           # local explanation and representative selection
 │   ├── LIME integrate.ipynb        # explanation integration
@@ -359,7 +359,7 @@ ai-decision-automation-framework/
 │   ├── SVM.ipynb                   # SVR baseline
 │   ├── poisson regression.ipynb    # statistical baseline
 │   ├── XGB SHAP.ipynb              # XGBoost SHAP explanation
-│   ├── NN shap value*.ipynb        # MLP SHAP explanation
+│   ├── NN SHAP.ipynb               # MLP SHAP explanation
 │   ├── SVM SHAP.ipynb              # SVR SHAP explanation
 │   ├── XGB_LIME SP.ipynb           # local explanation and representative selection
 │   ├── LIME integrate.ipynb        # explanation integration
